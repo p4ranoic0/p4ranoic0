@@ -68,9 +68,9 @@
 
 <p align="center">
   
-<a href="https://www.henrrygarcia.com/" target=”_blank”><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/henrry-garcia/" target=”_blank”><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.behance.net/p4ranoic0" target=”_blank”><img alt="LinkedIn" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="http://www.henrrygarcia.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/henrry-garcia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/p4ranoic0" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 
 
 </p>
